@@ -10,8 +10,10 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [anak jujur yang hebat](ebook/anak%20jujur%20yang%20hebat.pdf) - Ella Yuaelaelawati (2015)
 7. [SeriPendidikanOrangTua-INTERNETAMAN](ebook/SeriPendidikanOrangTua-INTERNET%20AMAN.pdf) – Sukiman (2016)
 8. [Journall social science](ebook/Journall%20social%20science.pdf) – (2025)
-9. [buku panduan website](ebook/buku%20panduan%20website.pdf) – Rudi Susanto (2025) 
-   
+9. [buku panduan website](ebook/buku%20panduan%20website.pdf) – Zabina Renata (2025)
+10. [BukuPedomanBukuAjar2021-2022](ebook/BukuPedomanBukuAjar2021-2022.pdf) – Wisnu Setiawan;Aditya Saputra;Markhamah (2021) 
+
+   BukuPedomanBukuAjar2021-2022 
 
 
 *Powered by GitHub Pages*
