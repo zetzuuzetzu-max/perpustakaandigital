@@ -6,5 +6,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Ini Atau Itu Diksus](ebook/IniAtauItuDiksus.pdf) - Barbara Eni (2023)
 3. [BUKU-AJAR-Sistem-Keamanan](ebook/BUKU-AJAR-Sistem-Keamanan.pdf) - Nurul Hayaty (2020)
 4. [BUKU-AJAR-Keamanan informasi dan jaringan](ebook/BUKU-AJAR-Keamanan%20informasi%20dan%20jaringan.pdf) - Pandu Pratama;Dafwen Toresa (2021)
+5. [Komik-Mereka Juga Bertasbih](ebook/Komik-Mereka%20Juga%20Bertasbih.pdf) - Yesi Maryam;Taufik Mei Mulyana;Fachruddin M. Mangunjaya; Gugah Praharawati (2019)
    
 *Powered by GitHub Pages*
