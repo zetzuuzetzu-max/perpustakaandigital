@@ -4,6 +4,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [JISEC](ebook/JISEC.pdf) – Rudi Susanto (2025) 
 2. [Ini Atau Itu Diksus](ebook/IniAtauItuDiksus.pdf) - Barbara Eni (2023)
-3. [AIR RAKSA_Si Jahat Perusak Tubuh dan Alam](ebook/AIR RAKSA_Si Jahat Perusak Tubuh dan Alam.pdf) - Barbara Eni (2023)
+3. [BUKU-AJAR-Sistem-Keamanan](BUKU-AJAR-Sistem-Keamanan.pdf) - Nurul Hayaty (2020)
    
 *Powered by GitHub Pages*
