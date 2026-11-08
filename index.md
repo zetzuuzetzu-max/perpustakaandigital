@@ -11,9 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [SeriPendidikanOrangTua-INTERNETAMAN](ebook/SeriPendidikanOrangTua-INTERNET%20AMAN.pdf) – Sukiman (2016)
 8. [Journall social science](ebook/Journall%20social%20science.pdf) – (2025)
 9. [buku panduan website](ebook/buku%20panduan%20website.pdf) – Zabina Renata (2025)
-10. [BukuPedomanBukuAjar2021-2022](ebook/BukuPedomanBukuAjar2021-2022.pdf) – Wisnu Setiawan;Aditya Saputra;Markhamah (2021) 
-
-   BukuPedomanBukuAjar2021-2022 
-
-
+10.[BukuPedomanBukuAjar2021-2022](ebook/BukuPedomanBukuAjar2021-2022.pdf) – Wisnu Setiawan;Aditya Saputra;Markhamah (2021)
+11.[Tugas2_Ringkasan UGC](ebook/Tugas2_Ringkasan%20UGC.pdf) – Rudi Susanto (2025) 
+   
 *Powered by GitHub Pages*
