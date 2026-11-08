@@ -8,5 +8,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [BUKU-AJAR-Keamanan informasi dan jaringan](ebook/BUKU-AJAR-Keamanan%20informasi%20dan%20jaringan.pdf) - Pandu Pratama;Dafwen Toresa (2021)
 5. [Komik-Mereka Juga Bertasbih](ebook/Komik-Mereka%20Juga%20Bertasbih.pdf) - Yesi Maryam;Taufik Mei Mulyana;Fachruddin M. Mangunjaya; Gugah Praharawati (2019)
 6. [anak jujur yang hebat](ebook/anak%20jujur%20yang%20hebat.pdf) - Ella Yuaelaelawati (2015)
-7. [SeriPendidikanOrangTua-INTERNETAMAN](ebook/SeriPendidikanOrangTua-INTERNET%20AMAN.pdf) – Sukiman (2016)   
+7. [SeriPendidikanOrangTua-INTERNETAMAN](ebook/SeriPendidikanOrangTua-INTERNET%20AMAN.pdf) – Sukiman (2016)
+8. [Journall social science](ebook/Journall%20social%20science.pdf) – (2025) 
+
+
 *Powered by GitHub Pages*
