@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [buku panduan website](ebook/buku%20panduan%20website.pdf) – Zabina Renata (2025)
 10. [BukuPedomanBukuAjar2021-2022](ebook/BukuPedomanBukuAjar2021-2022.pdf) – Wisnu Setiawan;Aditya Saputra;Markhamah (2021)
 11. [Tugas2_Ringkasan UGC](ebook/Tugas2_Ringkasan%20UGC.pdf) – Alma Feby Anti (2026)
+    
 Nama : Alma Feby Anti
 Kelas: C
 NIM : 13040124140126
